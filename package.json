@@ -2,7 +2,7 @@
   "name": "projet-deploiement",
   "version": "0.1.0",
   "private": true,
-  "homepage": https://dsanchezEni.github.io/RCDA_032p_tpGitDeploiement
+  "homepage": "https://dsanchezEni.github.io/RCDA_032p_tpGitDeploiement",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
