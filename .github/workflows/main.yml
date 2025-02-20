@@ -1,5 +1,6 @@
 # .github/workflows/deploy.yml
 name: Deploy to GitHub Pages
+
 on:
  push:
   branches:
@@ -7,6 +8,8 @@ on:
  
 jobs:
  deploy:
+  permissions:
+        contents: write
   runs-on: ubuntu-latest
  
   steps:
